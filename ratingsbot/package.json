@@ -1,0 +1,14 @@
+{
+  "name": "slackbot",
+  "version": "1.0.0",
+  "description": "Bot that retrieves competitive programming rating of users",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Alexander Egorov",
+  "license": "MIT",
+  "dependencies": {
+    "@slack/client": "^3.15.0"
+  }
+}
